@@ -1,9 +1,9 @@
-## Adafruit Sparkle Motion WLED Friend PCB
+## Adafruit Sparkle Motion - All-In-One WLED and xLights Board
 
 <a href="http://www.adafruit.com/products/6100"><img src="assets/6100.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit Sparkle Motion WLED Friend. 
+PCB files for the Adafruit Sparkle Motion - All-In-One WLED and xLights Board
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/6100
